@@ -24,16 +24,14 @@ https://github.com/bishalrauniyar/demo-check/assets/160076333/67681540-b298-4781
 <img width="1432" alt="tatasol" src="https://github.com/user-attachments/assets/840784d9-d251-4ff4-bbcb-98b99af43b7b">
 
 
-# Model Training via Google Collab
+# Model Training(POC)
 ## For Image Detection Analysis-
 
-
-#
+https://github.com/user-attachments/assets/546b39fb-f3c2-4dfb-b6a3-ad58d2e7a3ca
 
 ## For Video Detection Analysis-
 
-
-#
+https://github.com/user-attachments/assets/f6973c2c-0390-43ee-8073-4e592a32994f
 
 
 # Damage Detection Features from testing Basic to Advance Deep Learning Model to utilizing GenAI for its Assessment 
