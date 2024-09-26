@@ -10,8 +10,11 @@ https://github.com/bishalrauniyar/demo-check/assets/160076333/67681540-b298-4781
 
 ## Problem Statement -
 -Aircraft and Automobiles maintenance ensures safety, reliability, and regulatory compliance. Assessing and repairing damage and faulty wiring are essential for safety.
+
 -Structural damage and faulty wiring can lead to catastrophic failures, in-flight emergencies, or fires, endangering passengers and crew.
+
 -Regular inspections and timely repairs are crucial to prevent accidents and maintain public confidence in aviation and automobiles industry.
+
 -Market size and growth potential: The aviation maintenance, repair, and overhaul (MRO) market is projected to reach $92.4 billion by 2026, while the automotive repair market is estimated at over $750 billion
 
 ## Objective And Approach -
