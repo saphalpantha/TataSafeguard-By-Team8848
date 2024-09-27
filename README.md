@@ -2,7 +2,9 @@
 
 WebApp Deployed Link: <a href = "https://tata-safeguard-by-team8848.vercel.app/">Click Me</a>
 
-https://github.com/bishalrauniyar/demo-check/assets/160076333/67681540-b298-4781-a5d1-5507811732d7
+
+https://github.com/user-attachments/assets/129fc643-ae9b-4d61-b468-722e574106e1
+
 
 
 ## Project Title -
@@ -72,7 +74,7 @@ https://github.com/user-attachments/assets/06a59443-2792-4118-9ba1-4aa5da549574
   ## Authors and Roles
   - Bishal Kumar Rauniyar(Lead) - https://github.com/bishalrauniyar
   - Krishna Shah - https://github.com/krishnashah122
-  - Amrita Sinha - #
+  - Amrita Sinha - https://github.com/AmritaSinha8976
   - Ashish Gupta - https://github.com/ashishgupta914
   - Saphal Panth - https://github.com/saphalpantha
     <img width="795" alt="tatateam" src="https://github.com/user-attachments/assets/7100e5d1-75ab-4e98-8c68-126cac4f2262">
